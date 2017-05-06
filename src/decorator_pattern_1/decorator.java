@@ -1,12 +1,12 @@
-package decorator_pattern;
+package decorator_pattern_1;
 
-import decorator_pattern.bevareges.AbstractBeverage;
-import decorator_pattern.bevareges.DarkRoast;
-import decorator_pattern.bevareges.Espresso;
-import decorator_pattern.bevareges.HouseBland;
-import decorator_pattern.decorators.Mocha;
-import decorator_pattern.decorators.Soy;
-import decorator_pattern.decorators.Whip;
+import decorator_pattern_1.bevareges.AbstractBeverage;
+import decorator_pattern_1.bevareges.DarkRoast;
+import decorator_pattern_1.bevareges.Espresso;
+import decorator_pattern_1.bevareges.HouseBland;
+import decorator_pattern_1.decorators.Mocha;
+import decorator_pattern_1.decorators.Soy;
+import decorator_pattern_1.decorators.Whip;
 
 /**
  * Created by Dimon on 25.04.2017.

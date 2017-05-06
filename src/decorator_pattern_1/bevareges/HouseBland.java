@@ -1,6 +1,4 @@
-package decorator_pattern.bevareges;
-
-import decorator_pattern.bevareges.AbstractBeverage;
+package decorator_pattern_1.bevareges;
 
 /**
  * Created by Dimon on 25.04.2017.

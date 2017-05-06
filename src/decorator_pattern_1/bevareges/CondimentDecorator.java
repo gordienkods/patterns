@@ -1,6 +1,4 @@
-package decorator_pattern.bevareges;
-
-import decorator_pattern.bevareges.AbstractBeverage;
+package decorator_pattern_1.bevareges;
 
 public abstract class CondimentDecorator extends AbstractBeverage {
 

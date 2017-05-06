@@ -1,7 +1,7 @@
-package decorator_pattern.decorators;
+package decorator_pattern_1.decorators;
 
-import decorator_pattern.bevareges.AbstractBeverage;
-import decorator_pattern.bevareges.CondimentDecorator;
+import decorator_pattern_1.bevareges.AbstractBeverage;
+import decorator_pattern_1.bevareges.CondimentDecorator;
 
 /**
  * Created by Dimon on 25.04.2017.

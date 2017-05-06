@@ -1,4 +1,4 @@
-package decorator_pattern.bevareges;
+package decorator_pattern_1.bevareges;
 
 /**
  * Created by Dimon on 25.04.2017.
